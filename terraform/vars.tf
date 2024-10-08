@@ -46,6 +46,6 @@ variable "a_z_b" {
 }
 
 variable "key_name" {
-  type = string
+  type    = string
   default = "ec2login"
 }
