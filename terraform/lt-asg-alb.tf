@@ -1,4 +1,4 @@
-#### lt-asg-alb.tf ####
+
 
 #Create launch template with Amazon Linux 2 and run script
 resource "aws_launch_template" "launch_template" {
